@@ -15,4 +15,4 @@ Launched: nginx-vm
     multipass info nginx-vm
 '
 
-![img02](image02;png)
+![img02](image02.png)
