@@ -8,11 +8,11 @@ multipass launch 24.04 `
 >>   --cloud-init .\nivel01.yaml
 Launched: nginx-vm
 
-![img01](image01)
+![img01](image01.png)
 '
 
 'Comando para chegar as informações da máquina virtual utilizando o multipass:
     multipass info nginx-vm
 '
 
-![img02](image02)
+![img02](image02;png)
